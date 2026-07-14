@@ -1,0 +1,6 @@
+# The website has its own separate git repo and remote
+website/
+
+# OS junk
+.DS_Store
+Thumbs.db
