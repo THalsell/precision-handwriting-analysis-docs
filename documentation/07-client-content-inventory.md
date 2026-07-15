@@ -53,14 +53,14 @@ All three skew toward an attorney/institutional audience and lead with credentia
 # Website Assets Received
 
 ✅ Logo
-(Original on file: JPEG, 473×446px, no transparency. Ashley sent additional versions in her Jul 8 reply, but does not believe she has the original vector file — Eli Schmucker created the logo a few years ago. **Open item:** decide whether to vectorize the existing raster art in-house or attempt to track down source files via Eli. See Client Approval Required.)
+(Original on file: JPEG, 473×446px, no transparency. Ashley sent additional versions in her Jul 8 reply, but does not believe she has the original vector file — Eli Schmucker created the logo a few years ago. **Resolved:** no longer pursuing vector source — a transparent PNG (`assets/branding/logo-transparent.png` + icon-only `logo-icon.png`) was made in-house via color-to-alpha and is sufficient. Not an open item.)
 
 ✅ Professional Headshots (also embedded in the Professional Development Presentation)
 
 ✅ Domains
 
 ✅ Professional Development Presentation
-(Source doc: "Ashley Schmucker Professional Development 07072026.pptx" — mined for content 2026-07-08; populated Professional Training, Equipment, Library, Organizations, Education, and biography below. The CQDE/IADE certificate is on the last slide of this deck per Ashley — stored as an embedded image we haven't been able to render (.emf format); may be worth asking her for a plain image/PDF version if we want to display it.)
+(Source doc: "Ashley Schmucker Professional Development 07072026.pptx" — mined for content 2026-07-08; populated Professional Training, Equipment, Library, Organizations, Education, and biography below. The CQDE/IADE certificate is on the last slide of this deck per Ashley — stored as an embedded image we haven't been able to render (.emf format). **Not needed:** the certificate isn't planned to appear anywhere on the site, and Tiffany can create a displayable version herself if that changes. Not an open item.)
 
 ---
 
@@ -149,6 +149,8 @@ Per Ashley (email reply): all of the categories previously proposed — attorney
 
 # Publications
 
+**Site treatment — confirmed (Jul 15, 2026):** Mention that Ashley is a published author, but do not link out to the publications or host/embed the PDF. Both 2025 and 2026 entries below are essentially the same research/article published in two different places — Ashley wants interested readers to go look for it themselves rather than us linking or providing the text directly.
+
 2025
 "The Neurology of Handwriting: A Look at the Evidence through the Lens of the Nervous System"
 Published in the Scientific Journal of the International Association of Document Examiners, Volume 12A, 2025
@@ -156,7 +158,7 @@ Published in the Scientific Journal of the International Association of Document
 2026
 "The Neurology of Handwriting"
 Published in The Examiner (SAFE International Publication, safeforensics.org), Second Quarter, Vol. 13, Issue 2, 2026
-Full article text is available (5 pages) — candidate for repurposing as a blog post/site article.
+Full article text is available (5 pages) — not to be posted/repurposed as a blog post per the above; kept here for internal reference only.
 
 ---
 
@@ -181,6 +183,8 @@ Note: Ashley's own biography wording (see Biography) does not name FDI Inc. or D
 ---
 
 # Professional Equipment
+
+**Site treatment — confirmed (Jul 15, 2026):** No dedicated equipment/technology page or itemized list yet. General mentions of the equipment/technology used in her work are fine (e.g. as part of workflow or trust-indicator copy) — just not a standalone page breaking out the list below.
 
 - Microsoft Office
 - Snagit 2026
@@ -264,8 +268,8 @@ Approved by Ashley (email reply, Jul 8, 2026) with her preferred wording:
 **Bachelor of Science in Political Science** — 2013, Tennessee Technological University
 Dean's List honors. Completed an internship under Mark Gore, former District Attorney of Overton County, TN. Pursued coursework in legal studies and government.
 
-**Carol Martin Gatton Academy of Mathematics and Science** — Alumna, 2009
-Selected as one of 60 students statewide for this dual-enrollment residential program at Western Kentucky University. Training included computer programming and working with Mathematica. Completed a semester at Marymount Manhattan College (NYC) following Gatton.
+**Carol Martin Gatton Academy of Mathematics and Science** — Inaugural class, 2009
+Selected as one of 60 students statewide for this dual-enrollment residential program at Western Kentucky University. Training included computer programming and working with Mathematica for formula generation and computational problem solving. Completed a semester at Marymount Manhattan College (NYC) following Gatton.
 
 **Volunteer/Leadership:** Research project in psychology under Dept. Head Dr. Kelly Madole (Gatton); mock trial conferences at both Gatton and Tennessee Tech (Gatton team advanced to state conferences in Lexington, KY).
 
@@ -314,13 +318,9 @@ DRAFT — holding these back from the current round of client questions. Headlin
 
 # Information Still Needed
 
-☐ Testimonials — none available yet. Ashley's prior clients were engaged through her former employer, and she doesn't want to create conflict with that business. She hopes to add testimonials soon; revisit later rather than pressing now.
-
-☐ Logo vector/high-res files — Ashley does not believe she has these (see Website Assets Received). Needs a decision: vectorize the existing raster art, or attempt to source from Eli (who originally created it).
-
 ☐ Preferred homepage headline — draft options available (see Draft Homepage Headline Options); holding until a homepage mockup exists to show alongside it.
 
-**Resolved — no longer needed:** Typical clients, complete services list, KY/OH/TN phone numbers, geographic scope (nationwide), CQDE credential meaning, professional memberships, social media (declined — see below), full KY/OH city lists (confirmed as-given, not partial examples), Ohio personal-connection hook (confirmed none exists).
+**Resolved — no longer needed:** Typical clients, complete services list, KY/OH/TN phone numbers, geographic scope (nationwide), CQDE credential meaning, professional memberships, social media (declined — see below), full KY/OH city lists (confirmed as-given, not partial examples), Ohio personal-connection hook (confirmed none exists), logo vector/high-res files (resolved via in-house transparent PNG, not pursuing source files), testimonials (Ashley confirmed no — do not raise again), CQDE certificate display image (not needed — certificate isn't planned for the site; Tiffany can produce a version herself if that changes).
 
 **Social media:** Ashley does not wish to link social media accounts at this time. Remove from footer/site plan rather than tracking as an open item.
 
@@ -344,11 +344,15 @@ DRAFT — holding these back from the current round of client questions. Headlin
 
 ✅ Social Media — confirmed not wanted
 
+✅ Logo Files — resolved, in-house transparent PNG in use; not pursuing vector source
+
+✅ Testimonials — confirmed NO by Ashley; do not propose or raise again
+
+✅ Equipment & Technology — confirmed general mentions okay, but no dedicated equipment page/itemized list yet
+
+✅ Publications — confirmed mention-only, no links or PDF (see Publications section)
+
 ☐ Homepage Headline (deferred — to be shown with a mockup, not part of the current question round)
-
-☐ Logo Files (vector/high-res transparent version) — Ashley believes she doesn't have these; needs a decision on how to proceed
-
-☐ Testimonials (on hold at Ashley's request — revisit later)
 
 ---
 
