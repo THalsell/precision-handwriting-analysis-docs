@@ -155,7 +155,7 @@ Content Source:
 07-client-content-inventory.md → Site Structure
 
 Status:
-🟡 Draft Needed
+🟢 Complete — built as a 3-column layout (Tennessee, Kentucky, Ohio) on `bg-brand-slate`, each with a short description, a clickable phone number, and for KY/OH a "Visit the [State] Page →" link to `/kentucky` / `/ohio` (will 404 until those pages exist). Built 2026-07-14.
 
 ## Call to Action
 
@@ -187,7 +187,7 @@ Content Source:
 07-client-content-inventory.md → Biography
 
 Status:
-🟢 Complete
+🟢 Complete — built as `AboutHero.tsx`: full approved bio text (both paragraphs, verbatim), a 400+ Cases / 2026 CQDE Certified stat pair, and Ashley's headshot. Built and committed 2026-07-16.
 
 ## Education
 
@@ -202,7 +202,7 @@ Content Source:
 07-client-content-inventory.md → Education
 
 Status:
-🟢 Complete
+🟢 Complete — built as the "Education" group within `ProfessionalCredentials.tsx`'s timeline (TTU B.S. Political Science 2013 incl. Dean's List honors and the Mark Gore internship; Gatton Academy 2009 incl. the WKU dual-enrollment/Mathematica detail). Positioned last in that section (after Continuing Education) per Ashley's request. Diploma images viewable via "View Credentials."
 
 ## Professional Experience
 
@@ -215,7 +215,7 @@ Content Source:
 07-client-content-inventory.md → Professional Experience
 
 Status:
-🟢 Complete
+🟢 Complete, with one deliberate deviation from this outline — case volume (400+ cases since 2020) and casework variety are covered in the Biography. **Forensic Document Investigations, Inc. and Dianne Peterson are intentionally NOT named anywhere on the site**, matching Ashley's own approved bio wording rather than this row's original content-needed list — see `07-client-content-inventory.md`'s note on avoiding conflict with her former employer. Confirmed decision, not an oversight.
 
 ## Professional Training
 
@@ -229,7 +229,7 @@ Content Source:
 07-client-content-inventory.md → Professional Training
 
 Status:
-🟢 Complete
+🟢 Complete, same Dianne Peterson omission as above — built as the "Certification & Training" group in `ProfessionalCredentials.tsx`'s timeline (CQDE Certification; Interactive Training Program naming Kathy Koppenhaver and Debra Dunlap).
 
 ## Continuing Education
 
@@ -243,7 +243,7 @@ Content Source:
 07-client-content-inventory.md → Continuing Education
 
 Status:
-🟢 Complete
+🟢 Complete — appears twice: as a group within `ProfessionalCredentials.tsx`'s timeline (Wroclaw Symposium 2026, SAFE Conference 2025, AFDE/NADE Symposium 2024) and again as its own full `ContinuingEducation.tsx` section further down the page (photo background, full chronological list back to 2023, notes monthly SAFE/IADE coursework).
 
 ## Publications
 
@@ -255,7 +255,7 @@ Content Source:
 07-client-content-inventory.md → Publications
 
 Status:
-🟢 Complete
+🟢 Complete, structure changed from the original plan — Ashley indicated she didn't want Publications as its own dedicated section. Both citations (2025 Scientific Journal of IADE; 2026 The Examiner) now live in `AdditionalBackground.tsx`, de-emphasized (no photo/thumbnail), alongside the 2023 seminars/workshops list and volunteer/leadership facts pulled in from elsewhere in `07-client-content-inventory.md`. Mention-only, no links, per Ashley's confirmed publications policy.
 
 ## Professional Organizations
 
@@ -268,7 +268,7 @@ Content Source:
 07-client-content-inventory.md → Professional Organizations
 
 Status:
-🟢 Complete
+🟡 Content confirmed, but not built as its own section — after several placement attempts (standalone section, subsection of Credentials, under the Hero photo, inline with the Hero stats — full history in the `project-website-build` memory), the client's final call was to remove it entirely. SAFE/IADE active membership is now stated exactly once, in the Biography paragraph prose; CQDE is covered via the Certification & Training timeline group. No logos or dedicated callout anywhere on the site. Revisit only if asked.
 
 ## Call to Action
 
@@ -280,7 +280,7 @@ Content Needed:
 - Contact information
 
 Status:
-🟢 Complete
+🟢 Complete — reuses the shared `ContactCta` component (`src/components/shared/ContactCta.tsx`), same one used on the homepage.
 
 ---
 
