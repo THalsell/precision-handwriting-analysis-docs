@@ -220,8 +220,6 @@ Status:
 ## Professional Training
 
 Content Needed:
-- Kathy Koppenhaver
-- Debra Dunlap
 - Dianne Peterson
 - Interactive training
 
@@ -229,7 +227,7 @@ Content Source:
 07-client-content-inventory.md → Professional Training
 
 Status:
-🟢 Complete, same Dianne Peterson omission as above — built as the "Certification & Training" group in `ProfessionalCredentials.tsx`'s timeline (CQDE Certification; Interactive Training Program naming Kathy Koppenhaver and Debra Dunlap).
+🟢 Complete, same Dianne Peterson omission as above — built as the "Certification & Training" group in `ProfessionalCredentials.tsx`'s timeline (CQDE Certification; Interactive Training Program described without naming instructors, per client request).
 
 ## Continuing Education
 

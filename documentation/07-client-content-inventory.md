@@ -106,13 +106,13 @@ Per Ashley (email reply): all of the categories previously proposed — attorney
 
 **Source version** — from the author bio on her Examiner article:
 
-> "Ashley Schmucker is a graduate of the Gatton Academy and Tennessee Technological University. Since 2020, she has practiced with Forensic Document Investigations (FDI) Inc. alongside Dianne Peterson, specializing in questioned signatures, altered documents, and handwriting analysis. A SAFE member since 2026, Ashley also conducted neuro-physiological handwriting research and completed her specialized interactive training under Debra Dunlap in 2025."
+> "Ashley Schmucker is a graduate of the Gatton Academy and Tennessee Technological University. Since 2020, she has practiced with Forensic Document Investigations (FDI) Inc. alongside Dianne Peterson, specializing in questioned signatures, altered documents, and handwriting analysis. A SAFE member since 2026, Ashley also conducted neuro-physiological handwriting research and completed her specialized interactive training in 2025."
 
 **Our first-person draft:**
 
 > "I'm Ashley Schmucker, a forensic document examiner based in Cookeville, Tennessee, serving clients across Tennessee, Kentucky, and Ohio. Since 2020, I've practiced alongside Dianne Peterson at Forensic Document Investigations, Inc., where I've worked on 382 cases involving questioned signatures, anonymous writings, traced handwriting, and criminal investigations.
 >
-> My background began at the Carol Martin Gatton Academy of Mathematics and Science and Tennessee Technological University, where I earned my B.S. in Political Science. I received my specialized interactive training under Debra Dunlap and Kathy Koppenhaver, and I'm a member of SAFE (Scientific Association of Forensic Document Examiners International). I stay current in the field through ongoing continuing education and international symposiums, and my research and writing have been published in the Scientific Journal of the International Association of Document Examiners and The Examiner.
+> My background began at the Carol Martin Gatton Academy of Mathematics and Science and Tennessee Technological University, where I earned my B.S. in Political Science. I received my specialized interactive training, and I'm a member of SAFE (Scientific Association of Forensic Document Examiners International). I stay current in the field through ongoing continuing education and international symposiums, and my research and writing have been published in the Scientific Journal of the International Association of Document Examiners and The Examiner.
 >
 > I bring the same precision to every case, whether I'm working with an attorney preparing for trial, an institution reviewing a disputed document, or an individual who needs answers about a signature or handwriting sample."
 
@@ -164,17 +164,16 @@ Full article text is available (5 pages) — not to be posted/repurposed as a bl
 
 # Professional Training
 
-- **Kathy Koppenhaver** — Program Director, Forensic Document Interactive Training Course (completed 2025)
+- **Forensic Document Interactive Training Course** — two-year program covering case studies and research development (completed 2025)
 - **Dianne Peterson** — Associate/mentor; 17 years in forensic document examination; Ashley practices alongside her at FDI Inc.
-- **Debra Dunlap** — Instructor/mentor, Forensic Document Interactive Training Course (2025)
 
 **2023 seminars/workshops attended:**
-- David Tobin — History of Foster & Freeman and FDE Equipment
-- Carole Chaski — Forensic Linguistics for Document Examiners
-- Justin Brooks — Innocence Project
-- Dave Zweig — Zarbeco Microscopes
-- Dustin Eaton — Detecting Document Fraud
-- Mike Wakshull — Photoshop Tips and Tricks
+- History of Foster & Freeman and FDE Equipment
+- Forensic Linguistics for Document Examiners
+- Innocence Project
+- Zarbeco Microscopes
+- Detecting Document Fraud
+- Photoshop Tips and Tricks
 
 *Monthly continuing education courses also attended through SAFE and IADE.
 
