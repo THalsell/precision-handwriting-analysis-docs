@@ -290,7 +290,7 @@ Purpose:
 Explain what forensic document examination is and how Ashley can help.
 
 Status:
-🟡 Draft Needed
+🟢 Complete — built as the page hero (eyebrow, heading, intro paragraph, signature photo). Intro copy is drafted, not yet reviewed by Ashley. Built 2026-07-20.
 
 ## Individual Services
 
@@ -308,7 +308,7 @@ Content Source:
 07-client-content-inventory.md → Services List — CONFIRMED
 
 Status:
-🟢 Complete
+🟢 Complete — built as a full-width divider-separated list (title + one-line description each), matching the homepage Services section's editorial style, no icons. Split around a slate breaker image after "Detection of Traced or Simulated Handwriting." Titles are Ashley's confirmed wording; one-line descriptions are drafted and still pending her review. Built 2026-07-20.
 
 ## Examination Process
 
