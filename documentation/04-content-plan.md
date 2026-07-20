@@ -352,7 +352,7 @@ Create a localized landing page for Kentucky visitors while improving local SEO 
 
 Content Needed:
 - Kentucky-focused hero
-- Kentucky cities served
+- Kentucky cities served — original confirmed list was Owensboro, Bowling Green, Louisville. Ashley's Jul 15 follow-up spreadsheet expanded this to 13 cities (Louisville, Lexington, Bowling Green, Owensboro, Covington, Richmond, Georgetown, Florence, Elizabethtown, Paducah, Frankfort, Hopkinsville, Somerset) — still need to decide how many of these make the actual page.
 - Kentucky native
 - Kentucky Colonel recipient
 - Services overview
@@ -374,7 +374,7 @@ Unblocked — Ashley confirmed nationwide service with KY/OH landing pages as SE
 Content Needed:
 - Localized hero
 - Ohio-focused copy
-- City mentions: Akron, Cleveland, Columbus (examples given; confirm if more are wanted)
+- City mentions: original confirmed list was Akron, Cleveland, Columbus. Ashley's Jul 15 follow-up (see 07-client-content-inventory.md → Site Structure) expanded this with an unprompted "Ohio's Largest Cities" population ranking (Columbus, Cleveland, Cincinnati, Toledo, Akron, Dayton, Parma, Canton, Lorain, Hamilton) — still need to decide how many of these make the actual page.
 - Services
 - Why choose Ashley
 - FAQ
