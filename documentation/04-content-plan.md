@@ -408,7 +408,7 @@ Status:
 ## Contact Form
 
 Status:
-🟢 Complete
+🟢 Complete — built as a Next.js Server Action (`src/app/contact/actions.ts`) that sends via Resend to Ashley's existing inbox (`precisionhandwritinganalysis@gmail.com`), with reply-to set to the visitor's email. Uses Resend's shared `onboarding@resend.dev` sender for now since the production domain isn't connected/verified yet — once it is, swap the sender to a `precisionhandwritinganalysis.com` address so delivery isn't restricted to the Resend account owner's inbox. Requires a `RESEND_API_KEY` env var (documented in `.env.example`, set in Vercel project settings). Built 2026-07-20.
 
 ## Contact Information
 
@@ -421,9 +421,9 @@ Content Source:
 07-client-content-inventory.md → Contact Information
 
 Status:
-🟢 Complete
+🟢 Complete — built as a column beside the form (phone numbers with labels, email, office address), sourced from `site-config.ts`. Built 2026-07-20.
 
 ## Consultation CTA
 
 Status:
-🟢 Complete
+🟢 Complete — folded into the page hero copy above the form rather than a separate closing CTA section (the whole page already is the CTA target).
