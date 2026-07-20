@@ -237,6 +237,34 @@ Approved by Ashley (email reply, Jul 8, 2026) with her preferred wording:
 
 ---
 
+# FAQ — CONFIRMED
+
+Ashley's own wording, sent directly (email, Jul 20, 2026). One correction from her follow-up email the same day: "Photocopier" → "Scanner" in the equipment list. Also corrected an apparent typo, "on-sight" → "on-site," in the last question — flag to Ashley if that was intentional.
+
+**What is a Forensic Document Examiner?**
+A Forensic Document Examiner evaluates documents of many varieties to determine the authenticity of the content of the document, whether the question be of text, margins, font, signatures, handwriting, paper, ink, or any other constituent element.
+
+**What documents do I need to provide for examination?**
+The case evidence you provide should be of the highest quality available. A professional examination is most conclusive when original documents are provided. However, non-original (photocopied or digital) documents are accepted on a case-by-case basis if this is the only evidence available to you.
+
+**Who should engage your services?**
+My clientele is not limited to any particular entity. Individuals seeking a professional opinion on a disputed matter, banks with questioned checks, or law firms with complex casework may reach out to me for a consultation. However, my duty remains, as an impartial being, to provide an examination and evaluation of case evidence to aid the court or trier-of-fact in the understanding and correct interpretation of the questioned subject matter.
+
+**What equipment is used in your laboratory?**
+Professional equipment utilized in the process of investigation may include:
+- Stereoscopic Microscope Examination
+- Light source inspections
+- Scanner
+- Multiple Software Platforms (Adobe Acrobat, PowerPoint, SnagIt, etc.)
+- Physical and Digital Measuring Devices
+
+Please note that Precision Handwriting Analysis will not perform any destructive testing on documents, as we seek to preserve and protect the evidence you entrust to our laboratory.
+
+**Do you perform on-site examinations of documents?**
+Yes. Please contact me for further details about this service.
+
+---
+
 # Professional Library
 
 - Lewis, Jane A. *Forensic Document Examination Fundamentals and Current Trends.* Kidlington, Oxford: Academic Press, 2014.

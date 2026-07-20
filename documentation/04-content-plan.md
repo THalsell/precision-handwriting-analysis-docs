@@ -391,15 +391,17 @@ Status:
 # FAQ
 
 Content Needed:
-- What is forensic document examination?
-- What types of documents can be examined?
-- How long does the process take?
-- How are documents submitted?
-- Will I need to appear in court?
-- Do you testify as an expert witness?
+- What is a Forensic Document Examiner?
+- What documents do I need to provide for examination?
+- Who should engage your services?
+- What equipment is used in your laboratory?
+- Do you perform on-site examinations of documents?
+
+Content Source:
+07-client-content-inventory.md → FAQ — CONFIRMED
 
 Status:
-🟡 Draft Needed
+🟢 Complete — built as a client-side accordion (one question open at a time) below the page hero. Content is Ashley's own wording, sent directly rather than drafted. Built 2026-07-20.
 
 ---
 
