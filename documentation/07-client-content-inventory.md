@@ -311,9 +311,10 @@ Selected as one of 60 students statewide for this dual-enrollment residential pr
 
 - Kentucky native
 - Kentucky Colonel recipient
+- Ohio: "professional and personal ties to the state of Ohio" (Ashley's Jul 21, 2026 email notes on the Ohio page copy) — supersedes the earlier assumption below. No specifics given on what the personal tie is (family, prior residence, etc.); her sentence was used verbatim on `/ohio` since there's nothing further to expand it into.
 
 **Website Notes:**
-Excellent trust-building information for the Kentucky landing page. Confirmed no equivalent personal-connection hook exists for Ohio — Ashley would have mentioned it alongside the Kentucky details if there were one. Ohio landing page will rely on credentials/professionalism rather than a personal hook.
+Excellent trust-building information for the Kentucky landing page. **Superseded 2026-07-21:** this doc previously said "confirmed no equivalent personal-connection hook exists for Ohio" — that was an assumption from earlier in the project (Ashley hadn't mentioned one), not something she'd explicitly ruled out. Her Jul 21 Ohio page notes referenced "personal ties to the state of Ohio," contradicting that assumption. The Ohio hero now includes that line, but — unlike Kentucky's dedicated "A Kentucky Native" section with the Gatton Academy/Kentucky Colonel detail — there's no further material to build a matching section around unless Ashley provides specifics.
 
 ---
 
