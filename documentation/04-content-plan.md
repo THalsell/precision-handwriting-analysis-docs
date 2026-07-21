@@ -155,7 +155,7 @@ Content Source:
 07-client-content-inventory.md → Site Structure
 
 Status:
-🟢 Complete — built as a 3-column layout (Tennessee, Kentucky, Ohio) on `bg-brand-slate`, each with a short description, a clickable phone number, and for KY/OH a "Visit the [State] Page →" link to `/kentucky` / `/ohio`. Built 2026-07-14. `/kentucky` now exists (2026-07-21); `/ohio` still 404s until that page is built.
+🟢 Complete — built as a 3-column layout (Tennessee, Kentucky, Ohio) on `bg-brand-slate`, each with a short description, a clickable phone number, and for KY/OH a "Visit the [State] Page →" link to `/kentucky` / `/ohio`. Built 2026-07-14. Both `/kentucky` and `/ohio` now exist (2026-07-21) — no more dangling links.
 
 ## Call to Action
 
@@ -363,7 +363,9 @@ Content Source:
 07-client-content-inventory.md → Site Structure, Contact Information, Regional Background
 
 Status:
-🟢 Complete — built as `/kentucky` (`src/app/kentucky/page.tsx`) with four sections: `KentuckyHero.tsx` (headline, "Kentucky Native" / "Kentucky Colonel" badges, CTA button, KY phone link), `KentuckyLocalConnection.tsx` (new — Kentucky-native framing plus the Gatton Academy/WKU detail from Education, since "Kentucky Colonel" itself has no further detail on file to expand into copy), `KentuckyCitiesServed.tsx` (all 13 cities from the Jul 15 expanded list, resolving the earlier open question), and `KentuckyServicesSummary.tsx` (reuses the shared services list, links to `/services`). Ends with the shared `ContactCta`, extended with a `phone` prop so it can show the KY number instead of the TN default. Built 2026-07-21.
+🟢 Complete — built as `/kentucky` (`src/app/kentucky/page.tsx`) with four sections: `KentuckyHero.tsx`, `KentuckyLocalConnection.tsx`, `KentuckyCitiesServed.tsx` (all 13 cities from the Jul 15 expanded list, resolving the earlier open question), and `KentuckyServicesSummary.tsx` (reuses the shared services list, links to `/services`). Ends with the shared `ContactCta`, extended with a `phone` prop so it can show the KY number instead of the TN default. Built 2026-07-21.
+  - `KentuckyHero.tsx` — revised same day per Ashley's requested copy: no hero photo (single-column text block instead of the two-column image layout other page heroes use), headline "Kentucky Forensic Document Examiner," one-line subhead, a 4-item credential badge row (CQDE Certified, SAFE Member, IADE Member, Expert Witness Services — replacing the earlier "Kentucky Native"/"Kentucky Colonel" badges, since that personal-connection framing moved to `KentuckyLocalConnection.tsx` below it), "Request a Consultation" button, and a "Call Kentucky Office" phone link (relabeled from showing the raw number).
+  - `KentuckyLocalConnection.tsx` — Kentucky-native framing plus the Gatton Academy/WKU detail from Education, since "Kentucky Colonel" itself has no further detail on file to expand into copy.
 
 ---
 
@@ -374,17 +376,17 @@ Unblocked — Ashley confirmed nationwide service with KY/OH landing pages as SE
 Content Needed:
 - Localized hero
 - Ohio-focused copy
-- City mentions: original confirmed list was Akron, Cleveland, Columbus. Ashley's Jul 15 follow-up (see 07-client-content-inventory.md → Site Structure) expanded this with an unprompted "Ohio's Largest Cities" population ranking (Columbus, Cleveland, Cincinnati, Toledo, Akron, Dayton, Parma, Canton, Lorain, Hamilton) — still need to decide how many of these make the actual page.
+- City mentions: original confirmed list was Akron, Cleveland, Columbus. Ashley's Jul 15 follow-up (see 07-client-content-inventory.md → Site Structure) expanded this with an unprompted "Ohio's Largest Cities" population ranking (Columbus, Cleveland, Cincinnati, Toledo, Akron, Dayton, Parma, Canton, Lorain, Hamilton) — decision made to use the full 10-city population list.
 - Services
-- Why choose Ashley
-- FAQ
+- ~~Why choose Ashley~~ — decision made to skip, see Status
+- ~~FAQ~~ — decision made to skip, see Status
 - Contact information (440-452-0592)
 
 Content Source:
 07-client-content-inventory.md → Site Structure, Contact Information
 
 Status:
-🟡 Draft Needed
+🟢 Complete — built as `/ohio` (`src/app/ohio/page.tsx`), structurally matching `/kentucky`: `OhioHero.tsx` (same no-photo hero pattern and credential badges as `KentuckyHero.tsx` — "Ohio Forensic Document Examiner" headline, "Call Ohio Office" phone link), `OhioCitiesServed.tsx` (all 10 cities from the population-ranked list), `OhioServicesSummary.tsx` (reuses the shared services list), and the shared `ContactCta` with the OH phone number via its `phone` prop. No personal-connection section (per Regional Background note — no Ohio equivalent to the Kentucky-native hook, and Kentucky's is a dedicated section rather than a hero badge now anyway) and no separate "Why Choose Ashley" or FAQ sections — deliberate decision to keep OH structurally consistent with KY rather than building the extra sections this row originally called for. Built 2026-07-21.
 
 ---
 
