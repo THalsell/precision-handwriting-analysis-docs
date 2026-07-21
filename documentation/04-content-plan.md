@@ -431,3 +431,19 @@ Status:
 
 Status:
 🟢 Complete — folded into the page hero copy above the form rather than a separate closing CTA section (the whole page already is the CTA target).
+
+---
+
+# Technical SEO
+
+Purpose:
+Give search engines and social platforms what they need to index and preview the site correctly — not page-level content, but the technical layer underneath it. Listed as a project deliverable in `01-project-overview.md` but never previously broken out with build status.
+
+Content Needed:
+- Sitemap and robots.txt
+- Per-page canonical URLs
+- Open Graph / Twitter card previews (title, description, image)
+- Structured data for the business, and specifically for the KY/OH local-SEO landing pages
+
+Status:
+🟢 Complete, built 2026-07-21 — `src/app/sitemap.ts` and `robots.ts` (all 7 routes, referencing the sitemap); `metadataBase` set to `https://precisionhandwritinganalysis.com` in the root layout; a shared `pageMetadata()` helper (`src/lib/metadata.ts`) giving every page a canonical URL, Open Graph tags, and a Twitter card, using `logo.jpg` as the default share image (473×446 — not the recommended 1200×630 OG ratio, but the only business-branded image on hand; revisit if a proper social card image gets made); and `ProfessionalService` JSON-LD (`JsonLd.tsx`) — one site-wide block in the root layout (main TN listing, all three states in `areaServed`), plus a state-specific block on `/kentucky` and `/ohio` each with their own phone number and `areaServed` city list, since that per-state local-search signal is the actual point of those two pages. Verified via `npm run build`: canonical tags, OG/Twitter meta, and both JSON-LD blocks (2 on KY/OH, 1 elsewhere) all present in the prerendered HTML, and `sitemap.xml`/`robots.txt` render correctly.
