@@ -155,7 +155,7 @@ Content Source:
 07-client-content-inventory.md → Site Structure
 
 Status:
-🟢 Complete — built as a 3-column layout (Tennessee, Kentucky, Ohio) on `bg-brand-slate`, each with a short description, a clickable phone number, and for KY/OH a "Visit the [State] Page →" link to `/kentucky` / `/ohio` (will 404 until those pages exist). Built 2026-07-14.
+🟢 Complete — built as a 3-column layout (Tennessee, Kentucky, Ohio) on `bg-brand-slate`, each with a short description, a clickable phone number, and for KY/OH a "Visit the [State] Page →" link to `/kentucky` / `/ohio`. Built 2026-07-14. `/kentucky` now exists (2026-07-21); `/ohio` still 404s until that page is built.
 
 ## Call to Action
 
@@ -352,7 +352,7 @@ Create a localized landing page for Kentucky visitors while improving local SEO 
 
 Content Needed:
 - Kentucky-focused hero
-- Kentucky cities served — original confirmed list was Owensboro, Bowling Green, Louisville. Ashley's Jul 15 follow-up spreadsheet expanded this to 13 cities (Louisville, Lexington, Bowling Green, Owensboro, Covington, Richmond, Georgetown, Florence, Elizabethtown, Paducah, Frankfort, Hopkinsville, Somerset) — still need to decide how many of these make the actual page.
+- Kentucky cities served — original confirmed list was Owensboro, Bowling Green, Louisville. Ashley's Jul 15 follow-up spreadsheet expanded this to 13 cities — decision made to use the full expanded list.
 - Kentucky native
 - Kentucky Colonel recipient
 - Services overview
@@ -363,7 +363,7 @@ Content Source:
 07-client-content-inventory.md → Site Structure, Contact Information, Regional Background
 
 Status:
-🟢 Content Available (awaiting final copy)
+🟢 Complete — built as `/kentucky` (`src/app/kentucky/page.tsx`) with four sections: `KentuckyHero.tsx` (headline, "Kentucky Native" / "Kentucky Colonel" badges, CTA button, KY phone link), `KentuckyLocalConnection.tsx` (new — Kentucky-native framing plus the Gatton Academy/WKU detail from Education, since "Kentucky Colonel" itself has no further detail on file to expand into copy), `KentuckyCitiesServed.tsx` (all 13 cities from the Jul 15 expanded list, resolving the earlier open question), and `KentuckyServicesSummary.tsx` (reuses the shared services list, links to `/services`). Ends with the shared `ContactCta`, extended with a `phone` prop so it can show the KY number instead of the TN default. Built 2026-07-21.
 
 ---
 

@@ -31,10 +31,11 @@ Per client emails (Jul 7–8, 2026) and client reply confirming scope: one prima
 **Service area — CONFIRMED:** Nationwide. Ashley wants to allow access for clients nationwide. The KY and OH landing pages still get dedicated treatment for SEO, and — per her request — name specific cities within each target range, mirroring how her reference sites do this:
 - **Kentucky page — original confirmed list (Jul 8):** Owensboro, Bowling Green, Louisville.
 - **Ohio page — original confirmed list (Jul 8):** Akron, Cleveland, Columbus.
-- **Expanded city research (Jul 15 follow-up, unprompted from Ashley):** Ashley sent two additional attachments on Jul 15 — a probate-attorney-cost-calculator spreadsheet (city column only; rate/price columns are not site content) and an "Ohio's Largest Cities" population ranking image. Neither has been reflected in `site-config.ts` yet — still needs a decision on final page city selection, this is just the raw research captured:
-  - **Kentucky, full spreadsheet list (13 cities):** Louisville, Lexington, Bowling Green, Owensboro, Covington, Richmond, Georgetown, Florence, Elizabethtown, Paducah, Frankfort, Hopkinsville, Somerset.
+- **Expanded city research (Jul 15 follow-up, unprompted from Ashley):** Ashley sent two additional attachments on Jul 15 — a probate-attorney-cost-calculator spreadsheet (city column only; rate/price columns are not site content) and an "Ohio's Largest Cities" population ranking image.
+  - **Kentucky, full spreadsheet list (13 cities):** Louisville, Lexington, Bowling Green, Owensboro, Covington, Richmond, Georgetown, Florence, Elizabethtown, Paducah, Frankfort, Hopkinsville, Somerset. **Decision made:** full list of 13 now live in `site-config.ts` and on `/kentucky` (2026-07-21).
   - **Ohio, largest cities by population (from image, 10 cities):** Columbus, Cleveland, Cincinnati, Toledo, Akron, Dayton, Parma, Canton, Lorain, Hamilton.
   - **Ohio, spreadsheet list (2 cities):** Columbus, Cincinnati.
+  - Ohio city selection still open — no `/ohio` page yet.
 
 - **Primary site** → precisionhandwritinganalysis.com (lists all three phone numbers — see Contact Information)
 - **KY landing page** → kyhandwritingexaminer.com
