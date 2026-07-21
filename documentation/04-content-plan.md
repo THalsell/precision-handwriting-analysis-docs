@@ -425,7 +425,7 @@ Content Source:
 07-client-content-inventory.md → Contact Information
 
 Status:
-🟢 Complete — built as a column beside the form (phone numbers with labels, email, office address), sourced from `site-config.ts`. Built 2026-07-20.
+🟢 Complete — built as a column beside the form (phone numbers with labels, email, office address), sourced from `site-config.ts`. Built 2026-07-20. Email link updated 2026-07-21: Tiffany flagged the site was exposing the raw address (and mailto link) in plain prerendered HTML on every page that showed it — Footer, Contact, and the shared ContactCta — an easy scrape target despite the footer's `<wbr>` split, which only affected line-wrapping and gave zero real protection. Now uses a new `ObfuscatedEmail.tsx` client component that assembles the address after the page loads in-browser instead of baking it into the static HTML; verified via `npm run build` that the address and `mailto:` no longer appear anywhere in `.next/server/app`. Phone numbers were not changed — `tel:` links carry much lower spam risk than a scrapable email address.
 
 ## Consultation CTA
 
